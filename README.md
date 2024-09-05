@@ -8,8 +8,10 @@
 ## Course
  - [llm course](https://github.com/mlabonne/llm-course)
  - [GenerativeAICourse](https://github.com/microsoft/generative-ai-for-beginners?fbclid=PAZXh0bgNhZW0CMTEAAaYaN-XkpROi93Jt5yZzrxRDO3fWz-byQeeT6szfKc1HNWggb5Wgy1_SKMU_aem_kNmper5OJQilXT6cCse68g)
+ - [nlp zero-to-zero](https://github.com/JUSTSUJAY/nlp-zero-to-hero/tree/main?s=35)
+ - [llm workshop](https://github.com/rasbt/LLM-workshop-2024)
 
-   # Reading 
+## Reading 
  - [LLM Leaderboard](https://lmarena.ai/?leaderboard)
  - [Ilya Recommened Articles](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
  - [local-opensource models and applications](https://github.com/alexpinel/Dot)
