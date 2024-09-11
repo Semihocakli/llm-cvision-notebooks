@@ -1,0 +1,3 @@
+ - [LlaVa - Large Vision Language Model](https://arxiv.org/pdf/2408.03326)
+ - [BridgeTower Embedding Model](https://arxiv.org/pdf/2206.08657)
+ - [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485)
